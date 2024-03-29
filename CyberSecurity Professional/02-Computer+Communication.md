@@ -104,8 +104,8 @@ In essence, whether using radio waves, electrical pulses, or light signals, digi
 ____
 ## Chapter Quiz
 Which of these are valid representations of binary?
-> 1 and 0
-> On and Off
+> 1 and 0, 
+> On and Off, 
 > Yes and No
 
 What is the base unit of measurement for data?
