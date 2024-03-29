@@ -91,7 +91,7 @@ When it comes to transmitting digital information using binary states of on or o
 - **802.11 Standards**: Define wireless network types like 802.11b, g, n, and ac, ensuring compatibility among devices.
 - **Backwards Compatibility**: Newer Wi-Fi networks often support multiple standards for interoperability with older devices.
  
->> 2.4GHz signals travel further and pass through walls and objects better than 5GHz signals do. 802.11b/g only support 2.4GHz, 802.11n supports both 2.4 and 5GHz, and 802.11ac only supports 5G
+> 2.4GHz signals travel further and pass through walls and objects better than 5GHz signals do. 802.11b/g only support 2.4GHz, 802.11n supports both 2.4 and 5GHz, and 802.11ac only supports 5G
 
 #### Global Communication Challenges
 - **Latency Impact**: Lower latency enhances communication speed, crucial for real-time interactions.
