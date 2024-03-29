@@ -115,6 +115,8 @@ A Bitrate is the number of ___
 > bits that are communicated in a specific amount of time
 
 Which of these are valid ways to transmit binary information?
-> Optical pulses
+<pre>
+> Optical pulses 
 > Radio waves
 > Electric pulses
+</pre>
