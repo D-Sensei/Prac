@@ -46,8 +46,13 @@ Talk with Stake holder and explain them the architect
 - How do you cover your tracks
 
 _____
+## Terminology
 
 - **Vulnerability**: A flaw or weakness in system, its security procedures, its internal control, or its design and implementation that can be explioted to violate the system security policy
+
+- **Threat** : Any circumstance or event with the potential to adversly impact organizational operations
+
+- ****:
 _____
 
 ## You must know
@@ -56,6 +61,7 @@ _____
 - Common types of vulnerabilities
 
 # OS Fundamental
+
 
 - **Operating System Fundamentals**:
   - Essential for a lasting career in penetration testing.
@@ -169,7 +175,7 @@ In this example:
 - Files such as `report.txt`, `sunset.jpg`, and system executables (`ls`, `cp`) are organized within these directories.
 
 
-# Windows: Drives
+## Windows: Drives
 
 ```
 C:\
@@ -231,3 +237,37 @@ In this example:
 - **AppData** contains application-specific data.
 - **Recycle Bin** holds deleted files temporarily.
 
+## Pentester Objective
+- Uncover Vuln
+- Expliot Vuln
+- Identify Vuln
+- Mitigate Vuln
+
+
+### `Risk = Likelihood x Severity`
+
+
+# Web and  Network Fundamental
+/robots.txt - To check what is allowed and what is not allowed
+Penetration testers can help repair or patch identified vulnerabilities by disallowing access 
+```
+q. Which file is capable of providing information that can be used to identify vulnerabilities in the webserver?
+the robots.txt file
+
+Correct
+
+Penetration testers can help repair or patch identified vulnerabilities.
+```
+
+
+```
+How is a risk mathematically calculated?
+Risk = Likelihood * Severity
+
+Correct
+
+Risk is defined by the likelihood of the event happening multiplied by the severity of it happening.
+
+
+
+```
