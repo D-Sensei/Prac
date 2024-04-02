@@ -46,6 +46,11 @@
 *cat /etc/lsb-release*
 *cat /etc/redhat-release*
 
+![Alt text](images/can+i+upload.png)
+![Alt text](images/check+log.png)
+![Alt text](images/root+privileges.png)
+![Alt text](images/uname+pass+on+host.png)
+![Alt text](images/what+network+r+connected.png)
 
 # Tools of the trade required for pentesting
 - kali Linux
@@ -64,10 +69,13 @@ During which phase of a penetration test will you obtain written permission?
 
 Written permission obtained during the planning stage establishes your legal right to do penetration testing.
 ```
+___
 
-# OvertheWire
-# picoCTF
-# tryhackme
-# hackthebox
-# portswigger
-# blackgirlshack
+### Labs
+- OvertheWire
+- tryhackme
+- hackthebox
+- portswigger
+- blackgirlshack
+
+___
