@@ -28,10 +28,31 @@
     3. `Hardware Failures`
         - Have back up such that if one component fail there is another ready to pick up the slack
     4. `Destruction`
+        - Could be physical damage or corruptions
+        - Back up data centers in remote location or in the cloud that can keep running when our primary data is distrupted to protect against destruction
     5. `Service Outages`
+        - Programming Errors. the failure of underlying equipment, or many other reasons
+        - Resilient systems protect against  service outages
 ## Authentication and Authorization
+- `Identification` involves making a claim of identity
+- `Authentication` proving identity claim
+- `Authorization` ensure that an action is allowed
+- `Accounting` maintainss logs of user activity
+
 ## Password Security
+- `Password`
+      - Eight letters or more in some orgainsation
+      - Pwd complexity
+      - pwd expiration (organisaton forcing user to cahnge passwords every six months)
+      - pwd history
+      - pwd manager
+  
 ## Multifactor Authentication
+- PIN or Password
+- Biometric
+- Hardware or Software authentication token 
+    - `Software` that responds with one time password
+    - `Hardware` that act as key. Example: USB
 ## Non-repudiation
 ## Privacy
 ## Chapter Quiz
