@@ -19,3 +19,9 @@
   - How to protect
   - Best Practices
   - Cyber Awareness
+
+
+## Exam (in order)
+1. CC
+2. SSCP
+3. CISSP
