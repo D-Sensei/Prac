@@ -57,9 +57,19 @@ Three Different Authentication Factor
     - Hardware or Software authentication token 
         - `Software` that responds with one time password
         - `Hardware` that act as key. Example: USB
-- Multifactor-Authentication
-      - Combination of both `Something you know` and `something you have` i.e security Question or password with biometric (fingerprint)
-  
+- Multifactor-Authentication <br>
+    - Combination of both `Something you know` and `something you have` i.e security Question or password with biometric (fingerprint)
+    - Password with security question is not multidfactor as both the things come under `something you know`
+    - Single Sign-On (SSO) shares authenticated sessions across systems
+    - For Example : 
+        > Many organizations create these SSO solutions within their organizations to help users avoid the burden of repeatedly authenticating. In a single sign on approach, users log on to the first SSO enabled system that they encounter. And then that login session persists across other systems until it expires. If the organization sets the expiration period to be the length of a business day, that means that users will only need to log in once a day and their single sign on is then going to last the entire day.
+_____
 ## Non-repudiation
+- Repudiation refers to denying something is true, while non-repudiation is a security goal that prevents someone from falsely denying the truth of something.
+- Non-repudiation ensures that individuals cannot later deny their actions, such as agreeing to a transaction, by providing evidence that proves their agreement.
+- In scenarios like purchasing a car, non-repudiation is achieved through signed contracts where the signature serves as proof of agreement.
+- Physical signatures on contracts, receipts, and paper documents offer non-repudiation, while digital signatures use encryption technology for electronic documents.
+- Biometric security controls like fingerprints or facial recognition, as well as video surveillance, can also provide non-repudiation by proving someone's presence or actions in a specific location.
+
 ## Privacy
 ## Chapter Quiz
