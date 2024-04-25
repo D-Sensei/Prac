@@ -50,16 +50,16 @@
 ## Multifactor Authentication
 Three Different Authentication Factor
 - _**Something you know**_
-    - PIN or Password
+    - PIN, Password and security question
 - _**Something you are**_
+    - Biometric Security Mechanism
 - _**Something you know**_
-
-- PIN or Password
-- Biometric
-- Hardware or Software authentication token 
-    - `Software` that responds with one time password
-    - `Hardware` that act as key. Example: USB
-    - 
+    - Hardware or Software authentication token 
+        - `Software` that responds with one time password
+        - `Hardware` that act as key. Example: USB
+- Multifactor-Authentication
+      - Combination of both `Something you know` and `something you have`
+  
 ## Non-repudiation
 ## Privacy
 ## Chapter Quiz
