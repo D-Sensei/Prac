@@ -49,9 +49,10 @@
   
 ## Multifactor Authentication
 Three Different Authentication Factor
-- > A
--
--
+- _**Something you know**_
+    - PIN or Password
+- _**Something you are**_
+- _**Something you know**_
 
 - PIN or Password
 - Biometric
