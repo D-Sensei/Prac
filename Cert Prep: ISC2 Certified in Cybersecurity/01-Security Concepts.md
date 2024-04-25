@@ -48,11 +48,17 @@
       - pwd manager
   
 ## Multifactor Authentication
+Three Different Authentication Factor
+- > A
+-
+-
+
 - PIN or Password
 - Biometric
 - Hardware or Software authentication token 
     - `Software` that responds with one time password
     - `Hardware` that act as key. Example: USB
+    - 
 ## Non-repudiation
 ## Privacy
 ## Chapter Quiz
