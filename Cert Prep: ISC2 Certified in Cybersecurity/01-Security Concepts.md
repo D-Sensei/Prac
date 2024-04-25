@@ -58,7 +58,7 @@ Three Different Authentication Factor
         - `Software` that responds with one time password
         - `Hardware` that act as key. Example: USB
 - Multifactor-Authentication
-      - Combination of both `Something you know` and `something you have`
+      - Combination of both `Something you know` and `something you have` i.e security Question or password with biometric (fingerprint)
   
 ## Non-repudiation
 ## Privacy
