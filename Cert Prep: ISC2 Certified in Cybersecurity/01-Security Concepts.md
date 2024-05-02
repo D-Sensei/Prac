@@ -72,4 +72,48 @@ _____
 - Biometric security controls like fingerprints or facial recognition, as well as video surveillance, can also provide non-repudiation by proving someone's presence or actions in a specific location.
 
 ## Privacy
+- Concerns
+    - Protecting our own data
+    - Educating our users
+    - Protecting data colected by our  organisation
+- Private Information
+  - Personally Identifiable Information (PII) relates to Specfic user
+  - Protected Health Information (PHI) includes confidential health records accounted by HIPPA (Health Insurance Protability and Accountability Act) 
+
+- Reasonable Expectation of Privacy
+    - Privacy protection depends on whether the person had a reasonable expectation of privacy when disclosing information.
+    - Posting on social media generally has no reasonable expectation of privacy, as it's shared publicly.
+    - Private communications like email have higher expectation of privacy, though this can be compromised without encryption.
+    - Providing personal info to organizations has the highest expectation of privacy, as laws often require it be kept private.
+
+- Employer-Owned Systems
+    - Using an employer's computer, network or software generally has no reasonable expectation of privacy, as the employer can monitor its use.
+    - Employees should be informed they shouldn't expect privacy when using employer's systems, even for personal use.
+
+- Handling Confidential Info
+    - Organizations must safeguard all sensitive data, including personal info and company confidentials.
+
 ## Chapter Quiz
+- What security control provides non-repudiation for messages?
+`digital sign`
+
+- Which one of the following is an example of multifactor authentication?
+`ID card and PIN` (pin is something I know and id card is something I have)
+
+- What law regulates the protection of health information?
+`HIPAA`
+
+- What security tool can be configured to prevent DDoS attacks?
+`firewall`
+
+- Your organization requires that passwords contain a mixture of uppercase characters, lowercase characters, digits, and symbols. What type of password policy is this?
+`complexity`
+
+- During what phase of the access control process does a user prove his or her identity?
+`authentication`
+
+- In what type of attack does the attacker capture and then reuse login information?
+`replay`
+
+- What is the best defense against dumpster diving attacks?
+`shredding`
