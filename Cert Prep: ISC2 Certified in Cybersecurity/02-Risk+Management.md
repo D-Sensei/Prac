@@ -28,9 +28,9 @@ ____
     - `likelihood` is the probability that risk will occur
     - `Impact` is the amount of damage a risk will cause
 - `**Qualitative Risk**` Assesment uses subjective ratings to evaluate risk of likelihood and impact
-)
-- `**Quantitative Risk**` Assesment uses numeric ratings to evaluate risk of likelihood and impact
 ![image](Image/QualitativeRiskAssesment.png)
+
+- `**Quantitative Risk**` Assesment uses numeric ratings to evaluate risk of likelihood and impact
 
 
 ## Risk Treatment
