@@ -30,7 +30,7 @@ ____
 - `**Qualitative Risk**` Assesment uses subjective ratings to evaluate risk of likelihood and impact
 )
 - `**Quantitative Risk**` Assesment uses numeric ratings to evaluate risk of likelihood and impact
-![image](Image/QualitativeRiskAssesment.jpeg)
+![image](Image/QualitativeRiskAssesment.png)
 
 
 ## Risk Treatment
