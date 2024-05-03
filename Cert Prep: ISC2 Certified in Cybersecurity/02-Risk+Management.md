@@ -58,6 +58,45 @@ _____
 ______
 ## Selecting Security Controls
 - Security Controls reduce the likelihood or impact of a risk and help identify issue.
+- Control Purpose
+  - `Preventive` stop a security issue
+  - `Detective` identify security issue requiring investigation
+  - `Recovery` remediate securiy issue that have occured
+- Example
+![image](https://github.com/D-Sensei/Prac/assets/74155862/82f144a6-f886-4810-ab7a-fc02ef7aa60d)
 
+- Control Mechanism
+  - `Technical or logical` use to technology to achieve control objective E.g Firewall, IDS, encryption, data loss prevention and  antivirus software
+  - `Administrative` use processes to achieve control objective E.g Access Review, log monitoring, perforimg background checks and security awareness training
+  - `Physical` impact the physical world. E.g lock to prevent, camera and guard to monitor
+----
 ## Configuration Management
+-  `Configuration Management` tracks specific device settings and the inventory of software installed on device
+-  `Baselines` provide a configuration snapshot at a given point at time. Sys Admin's check runnning system to baseline to identify changes to the system
+-  `Versioning` assigns numbers to each version
+  - Versioning assigns each release of a piece of software an incrementing version number that may be used to identify any given copy. These numbers are frequently written as three part decimals 
+    - with the first number representing the major version of the software, 
+    - the second number representing a major update, 
+    - and the third number representing minor updates. 
+  - For Example, Apple's iOS uses this scheme along with many other software products. For example, iOS 14 is a major version of the iPhone and iPad operating system. When apple periodically releases major updates to iOS, they add a second number to the version string, such as iOS 14.1. Then if they make small updates to iOS 14.1 prior to the release of iOS 14.2, they add a third digit such as iOS 14.1.2
+- Configuration Artifacts : help understand how is system is designed to configure in case of time senstive troubleshooting and investigation
+![image](https://github.com/D-Sensei/Prac/assets/74155862/e8746294-d589-400b-9fb6-6171bac20f78)
+- **Standardize Device Configuration**
+  - naming convention
+  - IP Scheme
+
 ## Chapter Quiz
+Purchasing an insurance policy is an example of which risk management strategy?
+`risk transference`
+
+What two factors are used to evaluate a risk?
+`likelihood and impact`
+
+What term best describes making a snapshot of a system or application at a point in time for later comparison?
+`baselining`
+
+What type of security control is designed to stop a security issue from occurring in the first place?
+`preventive`
+
+What term describes risks that originate inside the organization?
+`internal`
